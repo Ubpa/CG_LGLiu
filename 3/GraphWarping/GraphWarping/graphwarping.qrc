@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/GraphWarping">
+      <file>Resources/images/open.bmp</file>
+      
+      <file>Resources/images/save.bmp</file>
+      <file>Resources/images/save_ban.bmp</file>
+      
+      <file>Resources/images/saveas.bmp</file>
+      <file>Resources/images/saveas_ban.bmp</file>
+      
+      <file>Resources/images/get.bmp</file>
+      <file>Resources/images/get_ban.bmp</file>
+
+      <file>Resources/images/feature.bmp</file>
+      <file>Resources/images/feature_ban.bmp</file>
+      
+      <file>Resources/images/idw.bmp</file>
+      <file>Resources/images/idw_ban.bmp</file>
+      
+      <file>Resources/images/rbf.bmp</file>
+      <file>Resources/images/rbf_ban.bmp</file>
+      
+      <file>Resources/images/rect_mesh.bmp</file>
+      <file>Resources/images/rect_mesh_ban.bmp</file>
+      
+      <file>Resources/images/tri_rand_mesh.bmp</file>
+      <file>Resources/images/tri_rand_mesh_ban.bmp</file>
+      
+      <file>Resources/images/tri_feature_mesh.bmp</file>
+      <file>Resources/images/tri_feature_mesh_ban.bmp</file>
+      
+      <file>Resources/images/undo.bmp</file>
+      <file>Resources/images/undo_ban.bmp</file>
+    </qresource>
+</RCC>

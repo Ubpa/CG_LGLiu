@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/GraphWarping">
+      <file>Resources/images/open.bmp</file>
+      <file>Resources/images/save.bmp</file>
+      <file>Resources/images/saveas.bmp</file>
+      <file>Resources/images/get.bmp</file>
+      <file>Resources/images/idw.bmp</file>
+      <file>Resources/images/rbf.bmp</file>
+      <file>Resources/images/undo.bmp</file>
+    </qresource>
+</RCC>

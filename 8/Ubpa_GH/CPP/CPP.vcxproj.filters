@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="IDW.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Interpolation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ND_Point.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RBF.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="API.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MinSrf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HE_mesh\Mesh3D.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Param_FB.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Param_FB_SP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Param_FB_U.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Param_FB_WLS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Param_UFB_ARAP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IDW.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Interpolation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ND_Point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RBF.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="API.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Img.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MinSrf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HE_mesh\Mesh3D.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HE_mesh\Vec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Param.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Param_FB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Param_FB_SP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Param_FB_U.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Param_FB_WLS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Param_UFB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Param_UFB_ARAP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

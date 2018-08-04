@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="/MainWindow">
+    <file>Resources/images/load_obj.bmp</file>
+    <file>Resources/images/load_obj_ban.bmp</file>
+
+    <file>Resources/images/load_tex.bmp</file>
+    <file>Resources/images/load_tex_ban.bmp</file>
+    
+    <file>Resources/images/saveas.bmp</file>
+    <file>Resources/images/saveas_ban.bmp</file>
+
+    <file>Resources/images/background.bmp</file>
+    <file>Resources/images/background_ban.bmp</file>
+
+
+    <file>Resources/images/minSurf_Iter.bmp</file>
+    <file>Resources/images/minSurf_Iter_ban.bmp</file>
+
+    <file>Resources/images/minSurf_Form.bmp</file>
+    <file>Resources/images/minSurf_Form_ban.bmp</file>
+
+    <file>Resources/images/minSurf_Curve.bmp</file>
+    <file>Resources/images/minSurf_Curve_ban.bmp</file>
+
+    <file>Resources/images/undo.bmp</file>
+    <file>Resources/images/undo_ban.bmp</file>
+  </qresource>
+</RCC>
