@@ -1,6 +1,8 @@
 # 计算机图形学
 
-> 课程主页: http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/default.htm
+> [课程主页](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/default.htm)
+
+
 
 ##一、 编程作业
 
@@ -37,8 +39,10 @@
 
 ![image](https://raw.githubusercontent.com/Ubpa/CG_LGLiu/master/images/10.jpg)
 
+
+
 ##二、课程项目
->项目链接: http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/Projects/index8.html
+>[项目链接](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/Projects/index8.html)
 >
 >指导老师: [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
 
