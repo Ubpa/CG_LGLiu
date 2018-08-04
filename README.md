@@ -2,9 +2,7 @@
 
 > [课程主页](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/default.htm)
 
-
-
-##一、 编程作业
+## 一、 编程作业
 
 ### 1. 画图程序
 
@@ -41,9 +39,13 @@
 
 
 
-##二、课程项目
->[项目链接](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/Projects/index8.html)
+## 二、课程项目
+>链接
 >
->指导老师: [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
+>​	- [项目链接](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/Projects/index8.html)
+>	- [B站视频连接](https://www.bilibili.com/video/av24106016)
+>指导老师
+>
+>​	 [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
 
 ![images](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/Projects/Pro8Fig1.jpg)
