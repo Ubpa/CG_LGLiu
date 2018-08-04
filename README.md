@@ -42,10 +42,10 @@
 ## 二、课程项目
 >链接
 >
->​	- [项目链接](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/Projects/index8.html)
->	- [B站视频连接](https://www.bilibili.com/video/av24106016)
->指导老师
+>- [项目链接](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/Projects/index8.html)
 >
->​	 [刘利刚](http://staff.ustc.edu.cn/~lgliu/)
+>- [B站视频连接](https://www.bilibili.com/video/av24106016)
+>
+>指导老师：[刘利刚](http://staff.ustc.edu.cn/~lgliu/)
 
 ![images](http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2018_spring-summer/Projects/Pro8Fig1.jpg)
